@@ -11,7 +11,7 @@ My passion lies in the backend side of software development, but I am also a cre
 - 🌱 I’m currently learning **Software engineering at Hogeschool Utrecht**
 
 - 📫 How to reach me **stormycurve@gmail.com**
-
+<br><br>
 
 # Languages and Tools
 <p> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -21,9 +21,10 @@ My passion lies in the backend side of software development, but I am also a cre
 <br><br>
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VeronGoggans&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=VeronGoggans&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VeronGoggans&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VeronGoggans&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
