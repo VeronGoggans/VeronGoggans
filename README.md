@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D12AQF6cLL2xbJzUg/article-cover_image-shrink_720_1280/0/1673984599902?e=2147483647&v=beta&t=2uSdcXLd59-rvPNuDQwWcGXv744prntN1CJEK40id34">
+<img border-radius="20px" src="https://media.licdn.com/dms/image/D4D12AQF6cLL2xbJzUg/article-cover_image-shrink_720_1280/0/1673984599902?e=2147483647&v=beta&t=2uSdcXLd59-rvPNuDQwWcGXv744prntN1CJEK40id34">
 <h1>Verôn Goggans</h1>
 I'm a 20 year old student currently working on my software engineering degree at Hogeschool Utrecht in the Netherlands.
 My passion lies in the backend side of software development, but I am also a creative person, so I can contribute to frontend design as well.
