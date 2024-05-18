@@ -27,8 +27,8 @@ My passion lies in the backend side of software development, but I am also a cre
 <br></br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=verongoggans&show_icons=true&locale=en&layout=compact" alt="verongoggans" /></p>
 <br></br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=verongoggans&show_icons=true&locale=en" alt="verongoggans" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=verongoggans&show_icons=true&locale=en" alt="verongoggans" /></p>
 <br></br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=verongoggans&" alt="verongoggans" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=verongoggans&" alt="verongoggans" /></p>
 
 
