@@ -1,3 +1,4 @@
+![Banner](https://cdn.pixabay.com/photo/2023/05/23/06/51/code-8012054_1280.png)
 <h1 align="center">Hi 👋, I'm Veron Goggans</h1>
 <h3 align="center">A passionate backend developer from the Netherlands</h3>
 <img align="right" alt="Coding illustration image" width="500" src="https://elitedigitalagency.com/blog/wp-content/uploads/2021/04/Screen-Shot-2021-04-26-at-5.43.16-PM.png">
