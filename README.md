@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋</h1>
 I'm a 20 year old student currently working on my software engineering degree at Hogeschool Utrecht in the Netherlands.
 My passion lies in the backend side of software development, but I am also a creative person, so I can contribute to frontend design as well.
-
+<br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=verongoggans&show_icons=true&locale=en" alt="verongoggans" /></p>
 
 <h3 align="center">A passionate backend developer from the Netherlands</h3>
