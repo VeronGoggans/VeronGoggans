@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Veron Goggans</h1>
 <h3 align="center">A passionate backend developer from the Netherlands</h3>
-<img align="right" alt="Coding illustration image" width="500" src="https://media.istockphoto.com/id/1402798800/vector/computer-technology-concept-computer-network-of-laptop-phone-tablet-on-desk-program-in-image.jpg?s=612x612&w=0&k=20&c=pmx5SWqu-i7yFkOtOrpL_fFYE4jf6vFjGUeU0EAkbHY=">
+<img align="right" alt="Coding illustration image" width="500" src="https://elitedigitalagency.com/blog/wp-content/uploads/2021/04/Screen-Shot-2021-04-26-at-5.43.16-PM.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=verongoggans&label=Profile%20views&color=0e75b6&style=flat" alt="verongoggans" /> </p>
 
