@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Veron Goggans</h1>
+<h1 align="center">Hello there 👋</h1>
+<p>I'm a 20 year old student currently working on my software engineering degree at Hogeschool Utrecht in the Netherlands.</p>
+<p>My passion lies in the backend side of software development, but I am also a creative person, so I can contribute to frontend design as well</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=verongoggans&show_icons=true&locale=en" alt="verongoggans" /></p>
+
 <h3 align="center">A passionate backend developer from the Netherlands</h3>
 <img align="right" alt="Coding illustration image" width="500" src="https://elitedigitalagency.com/blog/wp-content/uploads/2021/04/Screen-Shot-2021-04-26-at-5.43.16-PM.png">
 
@@ -16,7 +20,7 @@
 <div display="flex" flex-direction="column" gap="10px">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=verongoggans&show_icons=true&locale=en&layout=compact" alt="verongoggans" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=verongoggans&show_icons=true&locale=en" alt="verongoggans" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=verongoggans&show_icons=true&locale=en" alt="verongoggans" /></p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=verongoggans&" alt="verongoggans" /></p>
 </div>
