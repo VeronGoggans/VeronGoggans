@@ -1,4 +1,3 @@
-![Banner](https://media.istockphoto.com/id/1803992649/vector/software-development-coding-process-concept-programming-testing-cross-platform-code-app-on.jpg?s=612x612&w=0&k=20&c=9JX_Uhk0YSIqakQEXiSjo5NutvD4C8XOGIMc1cGRhiM=)
 <h1 align="center">Hi 👋, I'm Veron Goggans</h1>
 <h3 align="center">A passionate backend developer from the Netherlands</h3>
 <img align="right" alt="Coding illustration image" width="500" src="https://elitedigitalagency.com/blog/wp-content/uploads/2021/04/Screen-Shot-2021-04-26-at-5.43.16-PM.png">
