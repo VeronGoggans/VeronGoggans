@@ -1,5 +1,5 @@
 <h1 align="center">Verôn Goggans</h1>
-<img border-radius="20px" src="https://media.licdn.com/dms/image/D4D12AQF6cLL2xbJzUg/article-cover_image-shrink_720_1280/0/1673984599902?e=2147483647&v=beta&t=2uSdcXLd59-rvPNuDQwWcGXv744prntN1CJEK40id34">
+<img height="300px" src="https://media.licdn.com/dms/image/D4D12AQF6cLL2xbJzUg/article-cover_image-shrink_720_1280/0/1673984599902?e=2147483647&v=beta&t=2uSdcXLd59-rvPNuDQwWcGXv744prntN1CJEK40id34">
 
 # About me 
 I'm a 20 year old student currently working on my software engineering degree at Hogeschool Utrecht in the Netherlands.
