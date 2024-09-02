@@ -10,7 +10,7 @@ My passion lies in the backend side of software development, but I am also a cre
 
 - 🌱 I’m currently learning **Software engineering at Hogeschool Utrecht**
 
-- 📫 How to reach me **stormycurve@gmail.com**
+- 📫 How to reach me **veron.goggans1@gmail.com**
 
 - 🌐 My Portfolio [website](https://verongoggans.github.io/Portfolio/)
 <br><br>
