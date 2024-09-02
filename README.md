@@ -1,5 +1,5 @@
 <h1 align="center">Verôn Goggans</h1>
-<p align="center"><img height="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Fillustration%2Fcoding-4468578&psig=AOvVaw3O79thaQz9S8tuXpOW2jRo&ust=1725322432809000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOid_or9oogDFQAAAAAdAAAAABAE"></p>
+<p align="center"><img height="400px" src="https://cdni.iconscout.com/illustration/premium/thumb/coding-illustration-download-in-svg-png-gif-file-formats--html-logo-source-code-programming-interface-web-development-webapp-and-pack-design-illustrations-3783951.png?f=webp"></p>
 
 # About me 
 I'm a 20 year old student currently working on my software engineering degree at Hogeschool Utrecht in the Netherlands.
