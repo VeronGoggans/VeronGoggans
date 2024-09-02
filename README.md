@@ -1,5 +1,5 @@
 <h1 align="center">Verôn Goggans</h1>
-<p align="center"><img height="400px" src="https://img.freepik.com/premium-photo/illustration-computer-programming_979520-3515.jpg"></p>
+<p align="center"><img height="400px" border-radius="10px" src="https://img.freepik.com/premium-photo/illustration-computer-programming_979520-3515.jpg"></p>
 
 # About me 
 I'm a 20 year old student currently working on my software engineering degree at Hogeschool Utrecht in the Netherlands.
