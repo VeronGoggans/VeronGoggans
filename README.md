@@ -6,7 +6,7 @@ I'm a 20 year old student currently working on my software engineering degree at
 My passion lies in the backend side of software development, but I am also a creative person, so I can contribute to frontend design as well.
 <br><br>
 
-- 🔭 I’m currently working on a [Note-taking-app](https://github.com/VeronGoggans/Note-taking-app)
+- 🔭 I’m currently working on a [Photon](https://github.com/VeronGoggans/Note-taking-app)
 
 - 🌱 I’m currently learning **Software engineering at Hogeschool Utrecht**
 
