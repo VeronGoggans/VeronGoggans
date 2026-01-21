@@ -2,17 +2,15 @@
 <p align="center"><img height="400px" border-radius="10px" src="https://img.freepik.com/premium-photo/illustration-computer-programming_979520-3515.jpg"></p>
 
 # About me 
-I'm a 21 year old student currently working on my software engineering degree at Hogeschool Utrecht in the Netherlands.
+I'm a 22 year old student currently working on my software engineering degree at Hogeschool Utrecht in the Netherlands.
 My passion lies in the backend side of software development, but I am also a creative person, so I can contribute to frontend design as well.
 <br><br>
 
-- 🔭 I’m currently working on a [Photon](https://github.com/VeronGoggans/Note-taking-app)
+- 🔭 I’m currently working on a my own note-taking/productivity app 
 
-- 🌱 I’m currently learning **Software engineering at Hogeschool Utrecht**
+- 🌱 I’m currently studying **Software engineering at Hogeschool Utrecht**
 
 - 📫 How to reach me **veron.goggans1@gmail.com**
-
-- 🌐 My Portfolio [website](https://verongoggans.github.io/Portfolio/)
 <br><br>
 
 # Languages and Tools
@@ -22,11 +20,6 @@ My passion lies in the backend side of software development, but I am also a cre
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 <br><br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VeronGoggans&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=VeronGoggans&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VeronGoggans&theme=react&hide_border=true)<br/>
 
 
 
